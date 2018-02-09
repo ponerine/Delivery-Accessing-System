@@ -1,0 +1,1 @@
+Schematic diagram shows how accessing system works. Use Spring framework and Kafka middleware.
